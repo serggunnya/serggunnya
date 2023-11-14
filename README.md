@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Контакты
+* Email: [baranov.serg.it@gmail.com](mailto:baranov.serg.it@gmail.com)
+* LinkedIn: [in.com/in/sergey-b](https://www.linkedin.com/in/sergey-b-611116111)
+
+### Резюме
+* LinkedIn:   [in.com/in/sergey-b](https://www.linkedin.com/in/sergey-b-611116111))
+
+## Я на LeetCode
+[![LeetCode](https://leetcode.card.workers.dev/serggunnya?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/serggunnya/)
+
 ## Обо мне
 Начинающий Frontend разработчик
 
@@ -35,14 +45,4 @@ Express.js       █████████████________        50 %
 Postgres         █████████████________        50 %
 ```
 
-## Контакты
-* Email: [baranov.serg.it@gmail.com](mailto:baranov.serg.it@gmail.com)
-* LinkedIn: [in.com/in/sergey-b](https://www.linkedin.com/in/sergey-b-611116111)
 
-### Резюме
-* LinkedIn:   [in.com/in/sergey-b](https://www.linkedin.com/in/sergey-b-611116111))
-* HabrCareer: [---]()
-* HeadHunter  [---]()
-
-## Badges
-[![LeetCode](https://leetcode.card.workers.dev/serggunnya?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/serggunnya/)
