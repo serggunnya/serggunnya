@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
         
 ![LeetCode](https://leetcode.card.workers.dev/serggunnya?font=source_code_pro&extension=null)
-<img style="width:400px;height;300px" src="https://img.freepik.com/premium-vector/programming-software-concept-with-character-situation-man-works-computer-writes-code-creates-optimizes-pages-programs-vector-illustration-with-people-scene-flat-design-web_9209-11397.jpg" >
+<img style="width:340px;height;300px" src="https://img.freepik.com/premium-vector/programming-software-concept-with-character-situation-man-works-computer-writes-code-creates-optimizes-pages-programs-vector-illustration-with-people-scene-flat-design-web_9209-11397.jpg" >
 
